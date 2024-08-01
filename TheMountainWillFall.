@@ -77,24 +77,6 @@ debootstrap
 Delay: 300
 <off>
 >file
-git clone https://github.com/00423/14
-debootstrap
-Delay: 300
->file
-git clone https://github.com/00423/15
-debootstrap
-Delay: 300
->file
-git clone https://github.com/00423/16
-Delay: 300
-<off>
->file
-debootstrap
-git clone https://github.com/00423/18
-Delay: 300
-debootstrap
->file
-git clone https://github.com/00423/19
 Delay: 300
 <off>
 >file
