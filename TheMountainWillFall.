@@ -23,8 +23,7 @@ git clone https://github.com/00423/19
 Delay: 300
 debootstrap
 git clone https://github.com/00423/14
-debootstrap
-git clone https://github.com/00423/1
+Delay: 300
 debootstrap
 git clone https://github.com/00423/-2
 Delay: 300
