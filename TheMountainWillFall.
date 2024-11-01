@@ -2,8 +2,29 @@
 debootstrap
 git clone https://github.com/00423/-1
 Delay: 300
-<off>
+debootstrap
+git clone https://github.com/00423/13
+Delay: 300
+debootstrap
+git clone https://github.com/00423/18
+Delay: 300
+debootstrap
+git clone https://github.com/00423/15
+Delay: 300
+debootstrap
+git clone https://github.com/00423/17
+Delay: 300
+debootstrap
+git clone https://github.com/00423/16
 >file
+Delay: 300
+debootstrap
+git clone https://github.com/00423/19
+Delay: 300
+debootstrap
+git clone https://github.com/00423/14
+debootstrap
+git clone https://github.com/00423/1
 debootstrap
 git clone https://github.com/00423/-2
 Delay: 300
@@ -12,17 +33,9 @@ debootstrap
 git clone https://github.com/00423/-3
 Delay: 300
 >file
-debootstrap
-git clone https://github.com/00423/1
-Delay: 300
->file
 <off>
 debootstrap
 git clone https://github.com/00423/7
-Delay: 300
-<off>
-debootstrap
-git clone https://github.com/00423/2
 Delay: 300
 >file
 <off>
@@ -65,9 +78,6 @@ Delay: 300
 <off>
 >file
 debootstrap
-git clone https://github.com/00423/13
-Delay: 300
-debootstrap
 >file
 git clone https://github.com/00423/12
 Delay: 300
@@ -75,38 +85,9 @@ Delay: 300
 git clone https://github.com/00423/11
 debootstrap
 Delay: 300
-<off>
->file
-Delay: 300
-<off>
->file
-debootstrap
-git clone https://github.com/00423/20
-Delay: 300
->file
-debootstrap
-git clone https://github.com/00423/22
-Delay: 300
->file
-debootstrap
-git clone https://github.com/00423/24
-Delay: 300
-<off>
->file
-git clone https://github.com/00423/23
-debootstrap
-Delay: 300
 >file
 debootstrap
 git clone https://github.com/00423/21
-Delay: 300
->file
-git clone https://github.com/00423/25
-debootstrap
->file
-<off>
-debootstrap
-git clone https://github.com/00423/26
 Delay: 300
 >file
 The Mountain will fall!
