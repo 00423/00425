@@ -1,15 +1,19 @@
 <off>
 debootstrap
 git clone https://github.com/00423/-1
+<off>
 Delay: 300 
 debootstrap
 git clone https://github.com/00423/13
+<off>
 Delay: 300
 debootstrap
 git clone https://github.com/00423/18
+<off>
 Delay: 300
 debootstrap
 git clone https://github.com/00423/15
+<off>
 Delay: 300
 debootstrap
 git clone https://github.com/00423/17
